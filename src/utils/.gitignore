@@ -1,0 +1,2 @@
+# Ignore large files in this directory
+__pycache__
